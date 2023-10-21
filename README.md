@@ -1,2 +1,2 @@
 # Bateria_JS
-Projeto básico usando para fazer uma bateria usando javascript html5 e css3.
+Projeto básico usando javascript HTML5 e CSS3 para fazer uma bateria.
